@@ -3,6 +3,7 @@
 #### Dana wants to build a webpage and table that will allow her to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, she wants to add table filters for the city, state, country, and shape.
 
 ## Results
+#### The following is the code that I used to create more table filters. I added filters for the city, state, country, and shape of the UFO table. 
 
 ```// from data.js
 const tableData = data;
