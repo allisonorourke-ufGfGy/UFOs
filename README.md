@@ -84,3 +84,6 @@ function updateFilters() {
 ![search 2](https://github.com/allisonorourke-ufGfGy/UFOs/blob/main/images/search%202.png)
 
 ## Summary
+#### One of the drawbacks of this website is that fact that there is no seperation between the introduction and the search. This makes the web page seem crowded and overwheliming. 
+#### I believe that one of the ways that this webpage could be developed further is to create a menu where you could go to different pages to help with the seperation of information.
+##### I also believe that this webpage could be made better if there was and other search criteria that would look for specific words within the comment section of the results. This would help to make sure that if someone knows something about the event but not where or when it occured they could look it up with that. 
