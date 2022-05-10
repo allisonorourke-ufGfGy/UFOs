@@ -79,6 +79,8 @@ function updateFilters() {
   // Build the table when the page loads
   buildTable(tableData);
   ```
-
+#### To search for a result you are able to use a table which can be seen below
+![search](https://github.com/allisonorourke-ufGfGy/UFOs/blob/main/images/search.png)
+![search 2](
 
 ## Summary
